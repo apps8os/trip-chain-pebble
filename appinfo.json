@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Tripchain",
+    "longName": "Tripchain",
+    "versionCode": 1,
+    "uuid": "3b760d02-93f3-4c0d-aea3-687a466eaab3",
+    "resources": {
+        "media": []
+    },
+    "watchapp": {
+        "watchface": false
+    },
+    "appKeys": {},
+    "companyName": "petyalovei@gmail.com"
+}
